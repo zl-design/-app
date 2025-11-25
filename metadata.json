@@ -1,0 +1,7 @@
+{
+  "name": "玄机阁 (Xuan Ji Ge)",
+  "description": "A comprehensive Chinese Metaphysics application combining Bazi (Four Pillars), Feng Shui, and a daily Almanac using AI for personalized insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
